@@ -2,10 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 
 import logo from '../img/logo.svg'
-import facebook from '../img/social/facebook.svg'
-import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
-import vimeo from '../img/social/vimeo.svg'
 
 const Footer = class extends React.Component {
   render() {
@@ -14,7 +11,7 @@ const Footer = class extends React.Component {
         <div className="content has-text-centered">
           <img
             src={logo}
-            alt="Kaldi"
+            alt="OkGrazie"
             style={{ width: '14em', height: '10em' }}
           />
         </div>
@@ -31,17 +28,7 @@ const Footer = class extends React.Component {
                     </li>
                     <li>
                       <Link className="navbar-item" to="/about">
-                        About
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/products">
-                        Products
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/contact/examples">
-                        Form Examples
+                        About me
                       </Link>
                     </li>
                     <li>
@@ -62,18 +49,18 @@ const Footer = class extends React.Component {
                   <ul className="menu-list">
                     <li>
                       <Link className="navbar-item" to="/blog">
-                        Latest Stories
+                        Blog
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/contact">
-                        Contact
+                      <Link className="navbar-item" to="/contacts">
+                        Contacts
                       </Link>
                     </li>
                   </ul>
                 </section>
               </div>
-              <div className="column is-2 social">
+              <div className="column is-4 social">
                 <a title="twitter" href="https://twitter.com">
                   <img
                     className="fas fa-lg"
@@ -82,7 +69,12 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <span className="column is-6 social">Photo by Fernando Hernandez on Unsplash</span>
+              </div>
+              <div className="column is-12 credits">
+                <h6>Credits</h6>
+                Website created by Simone Foschi<br />
+                Photo by Fernando Hernandez on Unsplash
+
               </div>
             </div>
           </div>
