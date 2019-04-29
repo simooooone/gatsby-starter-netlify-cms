@@ -82,7 +82,7 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <span class="column is-6 social">Photo by Fernando Hernandez on Unsplash</span>
+                <span className="column is-6 social">Photo by Fernando Hernandez on Unsplash</span>
               </div>
             </div>
           </div>
