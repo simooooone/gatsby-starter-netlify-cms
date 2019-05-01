@@ -19,13 +19,13 @@ intro:
         I worked almost 2 years in my spare time on OkGrazie and I learnt too much things about the path that needs a programmer to call himnself a good programmer.
         I don't think to be a problem solver and in Math I am not too much acquainted.
         The biggest thing learnt was that I got great limits and working on a project was hard and complicated.
-    - image: /img/cofferear.png
+    - image: /img/coffe-gear.png
       text: >
-        First of all was the lack of material resources. Got a usb key with 1 Gb per month to navigate the web. I hadn't a smarphone, nor a good base of thecnological intoduction. I was by myself in all per all. I desn't follow nothing but facebook and ansa science to keep updated about thechnology news. All was based on Windows. I doesn't follow HN.
-    - image: /img/tutors.png
+        First of all was the lack of material resources. Got a usb key with 1 Gb per month to navigate the web. I hadn't a smarphone, nor a solid technological base. I was all by myself and the future was an ingocnita. I desn't follow nothing but facebook and ansa science to keep updated about thechnology news. All was based on Windows. I doesn't follow HN. All this because my English was poor and it was 2 years that I doesn't use a PC.
+    - image: /img/tutorials.png
       text: >
-        I kept up and running this http://www.okgrazie.it for about 3 years from when I finished to code.
-        Never had serious server issues. 
+        From 2013 I kept up and running this http://www.okgrazie.it for about 3 years from when I finished to code.
+        Never had serious server issues because I studied a lot and I resolved every little issue whaen I faced them. All on a single VPS, all by myself.
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
