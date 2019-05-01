@@ -26,19 +26,12 @@ intro:
       text: >
         From 2013 I kept up and running this http://www.okgrazie.it for about 3 years from when I finished to code.
         Never had serious server issues because I studied a lot and I resolved every little issue whaen I faced them. All on a single VPS, all by myself.
+        Asking for SEO people and editors to help me but none was available for a project just born and without funds.
+        But this was not an issue, I can understand that free working on a project managed by someone else was time intensive and without guatantees of a wealth future.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimmate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+        I payed a good computer for a template layout, I asked my boss to join my business and finally in 2016 for the VPS fee I put it offline.
+        Now I discovered open source and I want people look at my dream. I know, too much things are broken but I want to keep alive that work.
 main:
   heading: Great coffee with no compromises
   description: >
