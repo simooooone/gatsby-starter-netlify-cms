@@ -2,6 +2,10 @@
 templateKey: blog-post
 title: Quello che penso
 date: 2019-04-28T12:33:28.898Z
+tags: 
+  - visions
+featuredpost: false
+featuredimage: /static/img/coffee-gear.png
 description: >
   Allora ci siamo!! 
 
