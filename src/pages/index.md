@@ -30,7 +30,7 @@ intro:
         But this was not an issue, I can understand that free working on a project managed by someone else was time intensive and without guatantees of a wealth future.
     - image: /img/meeting-space.png
       text: >
-        I payed a good computer for a template layout, I asked my boss to join my business and finally in 2016 for the VPS fee I put it offline.
+        I payed a good computer for a template layout, I asked my boss to join my business and finally in 2016 I put it offline to not pay VPS fee.
         Now I discovered open source and I want people look at my dream. I know, too much things are broken but I want to keep alive that work.
 main:
   heading: Great coffee with no compromises
