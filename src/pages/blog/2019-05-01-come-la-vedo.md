@@ -2,15 +2,16 @@
 templateKey: blog-post
 title: Quello che penso
 date: 2019-04-28T12:33:28.898Z
-tags: 
-  - visions
-featuredpost: false
-featuredimage: /static/img/coffee-gear.png
 description: >
   Allora ci siamo!! 
 
-  Nella mia scoperta del mondo sono arrivato al dunque. A mio modo di vedere la vita è un
-  continuo cambiamento di prospettive, ricca di sbagli e di promesse e solo la consapevolezza porta ad un equilibrio.
+  Nella mia scoperta del mondo sono arrivato al dunque. A mio modo di vedere la
+  vita è un continuo cambiamento di prospettive, ricca di sbagli e di promesse e
+  solo la consapevolezza porta ad un equilibrio.
+featuredpost: false
+featuredimage: /img/blog-index.jpg
+tags:
+  - visions
 ---
 
 **Nulla è stabile ed eterno** e la maggior parte delle cose cambia in un attimo.
