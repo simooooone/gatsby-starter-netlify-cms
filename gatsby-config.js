@@ -1,4 +1,4 @@
-var proxy = require("http-proxy-middleware")
+var proxy = require('http-proxy-middleware')
 
 module.exports = {
   siteMetadata: {

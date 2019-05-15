@@ -8,10 +8,10 @@ description: >
   Nella mia scoperta del mondo sono arrivato al dunque. A mio modo di vedere la
   vita è un continuo cambiamento di prospettive, ricca di sbagli e di promesse e
   solo la consapevolezza porta ad un equilibrio.
-featuredpost: false
+featuredpost: true
 featuredimage: /img/blog-index.jpg
 tags:
-  - visions
+  - whatithink
 ---
 
 **Nulla è stabile ed eterno** e la maggior parte delle cose cambia in un attimo.
