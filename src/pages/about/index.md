@@ -4,15 +4,15 @@ title: Who is me ... aka Simko
 ---
 ### Always drinked great quantities of coffee in my life
 
-> 
+>
 
-### Single origin
+### Multiple origin
 
-> Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+> Over Microsoft OSes and Frameworks I developed a creer, but that was not enough for me. I want to dig deeper in the tools I use frequently. I want to se thwe code making magician on my system, I want to be sure that software respects my privacy. It's me in fact whom opens the garden of my illusions and my idseas. I don't want someone abuse about that. I'm scared of the power of knowledge some tools/sites/applications/OSes. It's something very deep in my psycology and I know too much people scare the loose of control about our private data. So I trust in Open Source and Linux was the gate to introduce me in the free universe.
 
-### Sustainable farming
+### Multiple directions
 
-> Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+> I linke software development, but I landed to sysadmin hobby. My raspberry dietpi'd works like a charm. Got to find the path to make it works without any effort. I like domotic and I'm trying to setup my house to automatically do things. My motto is "setup and forget".
 
 ### Direct sourcing
 
