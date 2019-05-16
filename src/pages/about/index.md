@@ -8,4 +8,4 @@ title: Who is me ... aka Simko
 
 ### Multiple directions
 
-> I linke software development, but I landed to sysadmin hobby. My Raspberry PI 3 B+ - DietPi'd works like a charm. Got to find the path to make it works without any effort. I like domotic and I'm trying to setup my house to automatically do things. My motto is "setup and forget".
+> I like software development, but I landed to sysadmin hobby. My Raspberry PI 3 B+ - DietPi'd works like a charm. Got to find the path to make it works without any effort. I like domotic and I'm trying to setup my house to automatically do things. My motto is "setup and forget".
