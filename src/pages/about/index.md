@@ -2,22 +2,18 @@
 templateKey: about-page
 title: Who is me ... aka Simko
 ---
-### Always drinked great quantities of coffee in my life
+### Origins
 
-> 
+> Started my adventure in software with Commodore 64 buyed by my dad. I programmed a bit (little bit) then I forgert computer fdor a while. Working with tapes and regulations seems to me a pain in the ass.
+>
+> Later my dad bought an amiga 64 and my brother plays frequently with that computer. I was disappointyred to work with such a rudimental computer but in some monthes found a helicopter game that was amazing and started to play around.
+>
+> Later my dad bought a pc and as always it took me some times to become acquaninted, but once I starded playng with settlers 3 (I never stopped to use pc's until now).
+>
+> But the real origin of my passion about computers was the advice of my cousin to start studing computer science to get a work with it.
 
-### Single origin
+### The first 15 years
 
-> Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### The freedom
 
-### Sustainable farming
-
-> Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
-
-### Direct sourcing
-
-> Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-
-> We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+> I like software development, but I landed to sysadmin hobby. My Raspberry PI 3 B+ - DietPi'd works like a charm. Got to find the path to make it works without any effort. I like domotic and I'm trying to setup my house to automatically do things. My motto is "setup and forget".
