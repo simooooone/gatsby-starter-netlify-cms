@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: 'OkGrazie, an ex classifieds website'
-image: /img/home-jumbotron.jpg
+image: /img/sf-home.jpg
 heading: OkGrazie introduces me to small/medium sized projects
 subheading: 'Made in Visual Basic, C# and SQL Server'
 mainpitch:
