@@ -54,12 +54,16 @@ intro:
     I think always about speed of my applications and websites and OkGrazie was
     carefully optimized for that target
 main:
-  heading: Great coffee with no compromises
+  heading: Great performances with no compromises
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    For the algorythm part of the website I worked exclusively with arrays, 
+    and it was a big gain in performace if I was using .NET 3.5 lambda functions.
+    I tested it myself and found lambda very slow compared to arrays.
+    In addition I compiled all my SQL querys in Stored Procedures inside 
+    SQL Server that faced as a big gain.
+    But I can't do without native components of ASP.NET and so I did not realized a complete custom application where I could control every aspect about the project.
+    I found in fact that it was limitating too much the html I caould insert.
+    Maybe one day it will be the next step. But I got not intention to keep up with okgrazie and think it is one of the many dead project.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
