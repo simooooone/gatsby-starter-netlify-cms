@@ -24,4 +24,4 @@ title: Who is Simko
 
 ### The freedom
 
-> Open source opened also my mind and gave me the ability to became aware of the internals of software development and of of an hidden universe of opportunities.
+> Open source opened also my mind and gave me the ability to became aware of the internals of software development and of an hidden universe of opportunities.
