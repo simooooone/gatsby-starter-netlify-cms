@@ -1,13 +1,13 @@
 ---
 templateKey: index-page
-title: 'Mimma e Tommy'
+title: "Testing gatsby"
 image: /img/sf-home.jpg
-heading: Mimma e Tommy sono due magnifici gatti,
-subheading: 'Allevati con tutto l'amore possibile'
+heading: Test blog,
+subheading: "This is my test blog"
 mainpitch:
-  title: Baramushi, i miei gatti
+  title: Here you will find nosense phrases and nosense sentences, is just a test netlify blog
   description: >
-    Hanno vari soprannomi che io e Irina gli abbiamo dato nel tempo.
+    Hanno vari soprannomi che io e e la mia compagna gli abbiamo dato nel tempo.
     Mushone e mushita, musho e musha, tommone e mimmina, maramao e mimmita,
     alcuni dovuti a dei loro comportamenti particolari, alcuni per evidenziare 
     il nostro senso delle cose, sempre in mutamento, come il nostro amore reciproco 
