@@ -1,28 +1,30 @@
 ---
 templateKey: index-page
-title: 'OkGrazie, an ex classifieds website'
+title: 'Mimma e Tommy'
 image: /img/sf-home.jpg
-heading: OkGrazie introduces me to small/medium sized projects
-subheading: 'Made in Visual Basic, C# and SQL Server'
+heading: Mimma e Tommy sono due magnifici gatti,
+subheading: 'Allevati con tutto l'amore possibile'
 mainpitch:
-  title: Why OkGrazie
+  title: Baramushi, i miei gatti
   description: >
-    OkGrazie was designed to compete with major classifieds websites,  carefully
-    optimized for speed, and I was introducted to secure a website and a
-    webserver.
+    Hanno vari soprannomi che io e Irina gli abbiamo dato nel tempo.
+    Mushone e mushita, musho e musha, tommone e mimmina, maramao e mimmita,
+    alcuni dovuti a dei loro comportamenti particolari, alcuni per evidenziare 
+    il nostro senso delle cose, sempre in mutamento, come il nostro amore reciproco 
+    e verso di loro che si evolve sempre verso qualcosa di meglio e più stabile.
+    Ma anche per evidenziare il nostro non sapere dare un nome certo alle cose 
+    ed un senso unico alla vita.
 description: >
-  In 2011 I wanted to introduce me to a serious programming path, and I starded
-  to searching for some business to not waste my time. I found that free
-  classifieds were a good start and I thought (wrongly) that it was an easy
-  business at that time to start with.
+  Loro sono il risultato più grande del nostro amore, come due figli ai quali 
+  donare ogni affetto
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        I worked almost 2 years in my spare time on OkGrazie and I learnt too
+        I worked almost 2 years in my spare time on Okgrazie and I learnt too
         much things about the path that needs a programmer to call himnself a
         good programmer. I don't think to be a problem solver and in Math I am
-        not too much acquainted. The biggest thing learnt was that big dreams 
+        not too much acquainted. The biggest thing learnt was that big dreams   
         are too big for humans.
     - image: /img/coffee-gear.png
       text: >
@@ -60,23 +62,22 @@ intro:
 main:
   heading: Great performances with no compromises
   description: >
-    For the algorythm part of the website I worked exclusively with arrays, and it was a 
+    For the algorythm part of the website I worked with arrays, and it was a 
     big gain in performace in comparsion to .NET 3.5 lambda functions.
     I tested it myself and found lambda very slow compared to arrays.
     In addition I compiled all my SQL querys in Stored Procedures inside SQL Server that 
     faced as a big gain.
-    But I can't do without native components of ASP.NET and so I did not realized a complete
-    custom application where I could control every aspect about the project.
+    But I can't do without native components of ASP.NET and so I didn't realized a complete
+    custom web application where I could control every aspect about the project.
     I found in fact that it was limitating too much the html I caould insert.
     Maybe one day it will be the next step. But I got not intention to keep up with okgrazie and think it is one of the many dead project.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: But it's all matter of time and funds
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: I can't say I never tryed
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: I love the bleeding edge
     image: /img/products-grid1.jpg
 ---
-

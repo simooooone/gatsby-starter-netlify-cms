@@ -20,4 +20,4 @@ Poche le cose durevoli e tutto quello che promettiamo per sempre non saremo in g
 
 I difetti nostri, del mondo che ci circonda e dei mondi lontani si rinnovano in ogni istante, senza tregua.
 
-Bene, allora cosa possiamo fare a riguardo se non darci un tono di allegria e andare in contro alla vita con ottimismo e cercando di risolvere ogni volta che possiamo i problemi che si manifestano e pensare sempre a come dare il meglio di noi.
+Bene, allora cosa possiamo fare a riguardo se non darci un tono di allegria e andare in contro alla vita con ottimismo e cercando di risolvere ogni volta che possiamo i problemi che si manifestano e pensare sempre a come dare il meglio di noi?

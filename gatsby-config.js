@@ -1,10 +1,8 @@
-var proxy = require('http-proxy-middleware')
-
 module.exports = {
   siteMetadata: {
-    title: 'OkGrazie a classifieds website',
+    title: 'Gatsby + Netlify CMS Starter',
     description:
-      'OkGrazie was a classifieds website developed in Visual Basic .NET, C# and SQL Server in 2 years of work, to dempnstrate my ability in the programming field',
+      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -49,7 +47,7 @@ module.exports = {
               // It's important to specify the maxWidth (in pixels) of
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
-              maxWidth: 2000,
+              maxWidth: 2048,
             },
           },
           {
@@ -76,17 +74,4 @@ module.exports = {
     }, // must be after other CSS plugins
     'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],
-  // for avoiding CORS while developing Netlify Functions locally
-  // read more: https://www.gatsbyjs.org/docs/api-proxy/#advanced-proxying
-  developMiddleware: app => {
-    app.use(
-      '/.netlify/functions/',
-      proxy({
-        target: 'http://localhost:9000',
-        pathRewrite: {
-          '/.netlify/functions/': '',
-        },
-      })
-    )
-  },
 }

@@ -3,14 +3,12 @@ import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
-import Helmet from 'react-helmet'
 
 export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
 
   return (
     <section className="section section--gradient">
-      <Helmet title={`${title} | OkGrazie`} />
       <div className="container">
         <div className="columns">
           <div className="column is-10 is-offset-1">
@@ -30,7 +28,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
 AboutPageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
   content: PropTypes.string,
-  contentComponent: PropTypes.func
+  contentComponent: PropTypes.func,
 }
 
 const AboutPage = ({ data }) => {
